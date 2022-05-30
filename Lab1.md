@@ -1,4 +1,4 @@
-## ---------- 1 ---------- 
+1
 ## Створити змінні базових (atomic) типів. Базові типи: character, numeric, integer, complex, logical. 
 my_character <- 'A' 
 print(class(my_character)) 
